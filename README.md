@@ -1,4 +1,5 @@
-## DressMatch-Code ##
+# DressMatch #
+## Final Project Algorithms Code Description ##
 
 
 
@@ -9,11 +10,29 @@ Main functions of the platform:
 Students have access to database of all jobs available from companies that require little to no expereience
 Companies have access to database of students looking for internships
 
-# Instalations and Libraries used:
+## Instalations and Libraries used: ##
+  1. citsjs
+
+## Usage: ##
+k
+
+### Creating Wardrobe###
+k
+
+### Searching for an outfit ###
 
 
-#
+## Additional information: ##
 
 
+## Credits: ##
+The authors of this project, of both the idea development and code are:
+
+  - Ana Encinas Sánchez 
+  - Calota Gómez Montes
+  - Carmen Prieto
+  - Marta Ortiz 
+  - Maria Goretty Martinez
+  - Paula Oliver 
 
 
