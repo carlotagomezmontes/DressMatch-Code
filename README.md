@@ -60,9 +60,9 @@ We have also incorporated the following algorithms:
 ## Credits: ##
 The authors responsible for the development of this project are:
 
-  Ana Encinas Sánchez 
-  Calota Gómez Montes
-  Carmen Prieto
-  Marta Ortiz 
-  Maria Goretty Martinez
-  Paula Oliver 
+  - Ana Encinas Sánchez 
+  - Calota Gómez Montes
+  - Carmen Prieto
+  - Marta Ortiz 
+  - Maria Goretty Martinez
+  - Paula Oliver 
