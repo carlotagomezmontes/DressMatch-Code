@@ -6,7 +6,6 @@ This program is a platform which allows the users to input the clothes in their 
 Main functions of the platform:
 
 The program aims to provide fashion insight to its users.
-
 Allows users to input the clothing item the own to provide a more personalized service. 
 
 
@@ -38,8 +37,8 @@ The user is allowed to insert as many items as he/she desires. Once the user is 
 ### Searching for an outfit ###
 If the user chooses the second option, he will be taken to the part of the program that creates an outfit combination which best suits his needs. 
 The user is fist asked whether he wants the program to choose: 
-  - A set (1 top + 1 bottom + a pair of shoes)
-  - An all in one (dresses/rompers/etc. + shoes)
+  - A set _(1 top + 1 bottom + a pair of shoes)_
+  - An all in one _(dresses/rompers/etc. + shoes)_
 
 In order to ensure that the outfit conforms with the users needs, he will be required to input some information, such as: 
   - Color
