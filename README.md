@@ -10,7 +10,7 @@ Main functions of the platform:
 
 ## Instalations and Libraries used: ##
   1. Requires Python Programming Language- It will work with all versions between 3.6 and 3.8.
-  2. Requires to import the Random Library, if it is has already imported you can avoid this step.
+  2. Requires to import the Random Library, if it has already imported you can avoid this step.
   The random library is downloaded using the following command:
   _import random as rn_
   
