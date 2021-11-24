@@ -5,7 +5,8 @@ This program is a platform which allows the users to input the clothes in their 
 
 Main functions of the platform:
 
-The program aims to provide fashion insight to its users 
+The program aims to provide fashion insight to its users.
+
 Allows users to input the clothing item the own to provide a more personalized service. 
 
 
