@@ -50,7 +50,7 @@ All the outfits will be randomly assigned meaning that each time the user rrerun
 ## Additional information: ##
 In order to obtain our desired program we have incorporated the following data structures into our code:
   1. Class objects: Tops, bottoms, shoes and All in ones using OOP (Object oriented Programming), along with their corresponding attributes. 
-  2. Lists: to save the differente instances incorporated by the users
+  2. Lists: to save the different instances incorporated by the users
 
 We have also incorporated the following algorithms:
   1. Insertion
