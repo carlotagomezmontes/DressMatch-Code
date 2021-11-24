@@ -4,9 +4,8 @@
 This program is a platform which allows the users to input the clothes in their wardrobe allowing them to see all their clothes in a neat and organised format. This would be as easy as taking a picture of your clothes and submitting it to the app with some filters such as the brand, size, color, etc.
 
 Main functions of the platform:
-
-The program aims to provide fashion insight to its users.
-Allows users to input the clothing item the own to provide a more personalized service. 
+  - The program aims to provide fashion insight to its users.
+  - Allows users to input the clothing item the own to provide a more personalized service. 
 
 
 ## Instalations and Libraries used: ##
@@ -23,7 +22,7 @@ Once the user accesses our platform he will be presented with two options:
 
 The user will have to choose between both options, and based on their choice they will have to answer some questions in order to allow the program to provide the optimal outfit according to his/her needs.
 
-### Creating Wardrobe ###
+### Creating the wardrobe ###
 If the user chooses the first option, he will be asked to input the charactercteristics of the piece of clothing he wishes to insert into the program. 
   1. Bottom
   2. Top
